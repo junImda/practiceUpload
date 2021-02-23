@@ -1,2 +1,2 @@
 # practiceUpload
-practicing GitHub uploads
+This is me trying to upload code to github
